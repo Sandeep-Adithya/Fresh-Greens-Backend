@@ -8,3 +8,4 @@ Flask-SQLAlchemy
 SQLAlchemy
 Werkzeug
 redis
+argon2_cffi
